@@ -1,0 +1,162 @@
+#EXTM3U
+
+
+
+#ETIXNF:-1, Canal Azteca Cinema
+http://ligatv.net:25461/live/televall01/20082018/314.m3u8
+
+#ETIXNF:-1, Canal Distrito Comedia
+http://ligatv.net:25461/live/televall01/20082018/317.m3u8
+
+#EXTINF:-1, Canal DPelicula
+http://ligatv.net:25461/live/televall01/20082018/320.m3u8
+
+#EXTINF:-1, Canal Gala Tv
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4738.m3u8
+
+#EXTINF:-1, Canal Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1, Canal Tv Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1, Canal Ocho Tv ( Guadalajara)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1, Canal Puebla Tv
+http://ligatv.net:25461/live/televall01/20082018/305.m3u8
+
+#EXTINF:-1, Canal Uno Tv 
+http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_878_av-p.m3u8
+
+#EXTINF:-1,Canal Sipse Noticias Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/2.m3u8
+
+
+#EXTINF:-1,Canal Bandamax
+http://s1.multicanal.tel:25461/live/jortuz/jortuz/3632.m3u8
+
+#EXTINF:-1,Canal Ritmo Son Latino
+http://s1.multicanal.tel:25461/live/jortuz/jortuz/3628.m3u8
+
+#EXTINF:-1,Canal Univison USA
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4683.m3u8
+
+#EXTINF:-1,Canal Unicable
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4685.m3u8
+
+#EXTINF:-1,Canal Depelicula Plus
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4764.m3u8
+
+#EXTINF:-1,Canal Univision
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/16.m3u8
+
+#EXTINF:-1,Canal Efecto Tv
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
+
+
+#EXTINF:-1,Canal Milenio Tv
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+#EXTINF:-1,Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,Canal Foro TV
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+
+#EXTINF:-1,Canal 11 Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1,Canal ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1,Canal FM Hot HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_/vJt1Aq651n/4738.m3u8
+
+#EXTINF:-1,Canal Imagen TV
+http://spy-iptv.com:25461/live/308HD/69qBgyetir/12929.m3u8
+
+#EXTINF:-1,Canal TV Mexiquense
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1,Canal Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+b1500000_slesp.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,Canal Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:-1,Canal Telemundo 69
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+
+#EXTINF:-1,Canal Telemundo 47
+http://kcdctv.co.uk:8080/live/cli1enta/mdjs2k78x/111417.m3u8
+
+#EXTINF:-1,Canal Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1,Canal Estrellas Mexico
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/2.m3u8
+
+#EXTINF:-1,Canal de las Estrellas
+http://live.lcdn.claro.net.co/Content/hls_fk/live/Channel(ESTRELLAS_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1 tvg-logo="thtp://127.0.0.1/" group-title="Without category",| Canal 5
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/5.m3u8
+
+#EXTINF:-1 , Canal 5
+http://spy-iptv.com:25461/live/308HD/69qBgyetir/12809.m3u8
+
+#EXTINF:-1 , Canal Azteca 7
+http://spy-iptv.com:25461/live/308HD/69qBgyetir/12819.m3u8
+
+ #EXTINF:-1,Univision Deportes HD
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_4500.m3u8
+ 
+#EXTINF:-1,TELEFORMULA (SD)
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1,Canal Chachipum Tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1,Canal Disney XD
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/75.m3u8
+
+#EXTINF:-1,Canal Nick 2
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/78.m3u8
+
+#EXTINF:-1,Canal Nick Jr
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/79.m3u8
+
+#EXTINF:-1,Canal Disney Jr
+http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/74.m3u8
+
+#EXTINF:-1,Canal La Mega Mundial  USA
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1,Canal Portal FoxMix TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal Music Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,Canal Retro Music Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+
+#EXTINF:-1,Canal M20 Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,Canal TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
